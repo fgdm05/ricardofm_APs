@@ -4,6 +4,8 @@ Z->SY|b
 Y->b
 X->a
 
-palavras
+palavras (fita)
 aabb (aceita)
 abbb (aceita)
+
+variável inicial: S
