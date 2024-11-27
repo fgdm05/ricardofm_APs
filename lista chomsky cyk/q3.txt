@@ -1,0 +1,9 @@
+Gramática equivalente para o simulador:
+S->XZ|YS|b
+Z->SY|b
+Y->b
+X->a
+
+palavras
+aabb (aceita)
+abbb (aceita)
